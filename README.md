@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nadacc/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nadacc/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/Nadacc/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nadacc/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nadacc/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nadacc/leetcode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
