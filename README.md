@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nadacc/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Nadacc/leetcode/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nadacc/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nadacc/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
