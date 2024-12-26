@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nadacc/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nadacc/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nadacc/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Nadacc/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/Nadacc/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nadacc/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Nadacc/leetcode/tree/master/0041-first-missing-positive) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
