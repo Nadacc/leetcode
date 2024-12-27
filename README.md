@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nadacc/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Nadacc/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Nadacc/leetcode/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/Nadacc/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nadacc/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nadacc/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
