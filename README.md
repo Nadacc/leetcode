@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nadacc/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nadacc/leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Nadacc/leetcode/tree/master/0179-largest-number) |
 | [0792-binary-search](https://github.com/Nadacc/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nadacc/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Nadacc/leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nadacc/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
@@ -81,9 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Nadacc/leetcode/tree/master/0179-largest-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Nadacc/leetcode/tree/master/2058-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Nadacc/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
