@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nadacc/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Nadacc/leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Nadacc/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Nadacc/leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Nadacc/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Nadacc/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Nadacc/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nadacc/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
