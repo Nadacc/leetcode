@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Nadacc/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Nadacc/leetcode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/Nadacc/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nadacc/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
