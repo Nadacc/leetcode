@@ -141,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Nadacc/leetcode/tree/master/0386-lexicographical-numbers) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nadacc/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nadacc/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nadacc/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
