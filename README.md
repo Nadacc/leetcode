@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Nadacc/leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Nadacc/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nadacc/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/Nadacc/leetcode/tree/master/0742-to-lower-case) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nadacc/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
