@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Nadacc/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nadacc/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Nadacc/leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nadacc/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Nadacc/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Nadacc/leetcode/tree/master/1217-relative-sort-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Nadacc/leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nadacc/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Nadacc/leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nadacc/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Nadacc/leetcode/tree/master/1217-relative-sort-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Math
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Nadacc/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nadacc/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Nadacc/leetcode/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nadacc/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nadacc/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nadacc/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nadacc/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
