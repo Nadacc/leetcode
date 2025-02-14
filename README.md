@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nadacc/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nadacc/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nadacc/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Nadacc/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/Nadacc/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nadacc/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/Nadacc/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Depth-First Search
 |  |
 | ------- |
