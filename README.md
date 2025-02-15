@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Nadacc/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Nadacc/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nadacc/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1524-string-matching-in-an-array](https://github.com/Nadacc/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nadacc/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Nadacc/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/Nadacc/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nadacc/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Nadacc/leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Nadacc/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1524-string-matching-in-an-array](https://github.com/Nadacc/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nadacc/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nadacc/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Nadacc/leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Nadacc/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
