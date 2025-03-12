@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Nadacc/leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Nadacc/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nadacc/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/Nadacc/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
