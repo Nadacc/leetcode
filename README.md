@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/Nadacc/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nadacc/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Nadacc/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Nadacc/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nadacc/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Nadacc/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Nadacc/leetcode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Nadacc/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Nadacc/leetcode/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Nadacc/leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Nadacc/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Nadacc/leetcode/tree/master/1217-relative-sort-array) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Nadacc/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
