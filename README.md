@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nadacc/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nadacc/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nadacc/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2083-three-divisors](https://github.com/Nadacc/leetcode/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nadacc/leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Nadacc/leetcode/tree/master/2083-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nadacc/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Nadacc/leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
