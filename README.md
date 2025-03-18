@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nadacc/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Nadacc/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nadacc/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Nadacc/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Nadacc/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nadacc/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Nadacc/leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Nadacc/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Nadacc/leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Nadacc/leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Nadacc/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
