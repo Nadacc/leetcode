@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Nadacc/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nadacc/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nadacc/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nadacc/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Nadacc/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nadacc/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nadacc/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nadacc/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Nadacc/leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nadacc/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Nadacc/leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nadacc/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
