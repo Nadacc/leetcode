@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nadacc/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nadacc/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nadacc/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/Nadacc/leetcode/tree/master/2226-rings-and-rods) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nadacc/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Nadacc/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nadacc/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/Nadacc/leetcode/tree/master/2226-rings-and-rods) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
