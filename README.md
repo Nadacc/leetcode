@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Nadacc/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nadacc/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nadacc/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nadacc/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
