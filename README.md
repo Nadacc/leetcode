@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/Nadacc/leetcode/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nadacc/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nadacc/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/Nadacc/leetcode/tree/master/2406-decode-the-message) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Nadacc/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2365-percentage-of-letter-in-string](https://github.com/Nadacc/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nadacc/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2406-decode-the-message](https://github.com/Nadacc/leetcode/tree/master/2406-decode-the-message) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
