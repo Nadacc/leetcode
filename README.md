@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nadacc/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nadacc/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/Nadacc/leetcode/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nadacc/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/Nadacc/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nadacc/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2406-decode-the-message](https://github.com/Nadacc/leetcode/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nadacc/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/Nadacc/leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Nadacc/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nadacc/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nadacc/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nadacc/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nadacc/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Nadacc/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Nadacc/leetcode/tree/master/0371-sum-of-two-integers) |
+| [2427-first-letter-to-appear-twice](https://github.com/Nadacc/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
