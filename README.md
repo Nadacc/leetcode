@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nadacc/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nadacc/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/Nadacc/leetcode/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Nadacc/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nadacc/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/Nadacc/leetcode/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nadacc/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nadacc/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nadacc/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## String Matching
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nadacc/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nadacc/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/Nadacc/leetcode/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Simulation
 |  |
 | ------- |
