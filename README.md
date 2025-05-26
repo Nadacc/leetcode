@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nadacc/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/Nadacc/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nadacc/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/Nadacc/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/Nadacc/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nadacc/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Nadacc/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Nadacc/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nadacc/leetcode/tree/master/2507-number-of-common-factors) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nadacc/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Nadacc/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Nadacc/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Nadacc/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nadacc/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
