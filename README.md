@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Nadacc/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nadacc/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nadacc/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nadacc/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nadacc/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/Nadacc/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nadacc/leetcode/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nadacc/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Nadacc/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
 |  |
 | ------- |
